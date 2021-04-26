@@ -1,6 +1,13 @@
-- 👋 Hi, I’m @AlekseyKuk
-- 👀 I am interested in web development and everything related to games and application development.
-- 🌱 I’m currently learning C#. Unity 
+-👋 Hi, I'm Aleksey, student, graduating from college as a programmer.<b> I am learning programming on my own.</b>
+- 👀 Interested in web development, game and app development.
+- 🌱 I’m currently learning:
+        <br> - C#
+        <br> - Unity
+        <br> - MySql
+        <br> - HTML
+        <br>- CSS
+         <br>-
+         <strike>```console.log("") ```</strike>I'll start soon</p>
 - 💞️ I'm looking to collaborate on game, website or app development
 - 📫 How to reach me email: kuk.alex2014@yandex.ru 
 
