@@ -1,4 +1,4 @@
--👋 Hi, I'm Aleksey, student, graduating from college as a programmer.<b> I am learning programming on my own.</b>
+-👋 Hi, I'm Aleksey,<b> I am learning programming on my own.</b>
 - 👀 Interested in web development, game and app development.
 - 🌱 I’m currently learning:
         <br> - C#
